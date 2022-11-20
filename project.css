@@ -1,16 +1,16 @@
 body {
-  margin: 0px;
+  margin: 10px;
 }
 
 nav {
-  border-top: 8px solid black;
-  border-bottom: 1px solid black;
-  padding: 20px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 10px;
   text-align: center;
 }
 
 .logo {
-  width: 330px;
+  width: 20px;
 }
 
 .sitemotto {
@@ -23,19 +23,23 @@ nav {
 }
 
 article {
-  margin-left: 15%;
-  width: 60%;
+  margin-left: 25%;
+  width: 90%;
+  padding: 20px;
 }
 
 header {
     font-family: 'Bebas Neue', cursive;
     font-size: 20px;
     color: red;
+    margin-left: 25%;
+
 }
 
 h1 {
   font-family: 'Anton', sans-serif;
   font-size: 56px;
+  padding:  20px;
 }
 
 .byline {
@@ -46,9 +50,10 @@ h1 {
   padding: 20px;
 }
 
-article > p {
+p {
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 20px;
+  padding:  20px;
 }
 
 .story_image {
