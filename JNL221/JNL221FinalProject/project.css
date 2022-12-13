@@ -1,0 +1,121 @@
+body {
+  margin: 10px;
+}
+
+nav {
+  border-top: 2px solid orangered;
+  border-bottom: 2px solid orangered;
+  padding: 5px;
+  text-align: center;
+
+
+}
+
+a { 
+color: #de2f23;
+ font-family: 'Anton', sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+
+ }
+
+ caption {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+
+ }
+
+.logo {
+  width: 20px;
+}
+
+.sitemotto {
+  color: #de2f23;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+article {
+  margin-left: 25%;
+  width: 90%;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 56px;
+  padding:  20px;
+  text-align: center;
+}
+
+}
+header {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    margin-left: 35%;
+
+}
+
+svg{
+
+  width: 30px;
+}
+
+h3{
+
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  padding:  20px;
+  text-align: center;
+}
+
+.byline {
+  font-weight: bold;
+}
+
+.tdpad {
+  padding: 20px;
+}
+
+p {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 20px;
+  padding:  20px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+.caption {
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+footer > p {
+  font-size: 14px;
+  color: #666666;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
+
